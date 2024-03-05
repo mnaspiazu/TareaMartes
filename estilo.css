@@ -1,0 +1,122 @@
+#principal
+{
+    width: 1000px;
+    height: 2000px;
+    background-color: rgb(9, 109, 92);
+    margin: 20px;
+}
+#copasombrero
+{
+    width: 180px;
+    height: 60px;
+    background-color: rgb(73, 34, 5);
+    position: relative;
+    left: 260px
+}
+#sombrero
+{
+    width: 400px;
+    height: 60px;
+    background-color: chocolate;
+    position: relative;
+    left: 150px
+}
+#cara
+{ 
+    width: 400px;
+    height: 400px;
+    background-color: rgb(235, 206, 161);
+    display: inline-block;
+    border-radius: 100px;
+    position: relative;
+    left: 150px;
+
+}
+#ojoIzquierdo
+{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 100px;
+    position: relative;
+    left: 70px;
+    top:35px;
+}
+#ojoDerecho
+{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 100px;
+    position: relative;
+    left: 110px;
+    top:35px;
+}
+#iris1{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(27, 161, 182);
+    display: inline-block;
+    border-radius: 50px;
+    position: relative;
+    left:25px;
+    top:25px;
+}
+#iris2
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(27, 161, 182);
+    display: inline-block;
+    border-radius: 50px;
+    position: relative;
+    left: 25px;
+    top:25px;
+}
+#nariz
+{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(168, 21, 21);
+    display: inline-block;
+    border-radius: 100px;
+    position: relative;
+    right: 65px;
+    top:150px; 
+}
+#barbilla
+{
+    width: 300px;
+    height: 100px;
+    background-color:white;
+    display: inline-block;
+    border-radius: 500px;
+    position: relative;
+    left:45px;
+    top:100px; 
+}
+#boca
+{
+    width: 150px;
+    height: 60px;
+    background-color:rgb(168, 21, 21);
+    display: inline-block;
+    border-radius: 500px;
+    position: relative;
+    left:70px;
+    top:18px; 
+}
+#labio
+{
+    width: 80px;
+    height: 10px;
+    background-color:rgb(12, 11, 11);
+    display: inline-block;
+    border-radius: 500px;
+    position: relative;
+    left:35px;
+    top:18px; 
+
+}
